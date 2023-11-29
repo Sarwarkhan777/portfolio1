@@ -132,6 +132,11 @@ footer a{
     display: flex;
     flex-direction: column;
 }
+.subclass button{
+    background: transparent;
+    color: wheat;
+    border: none;
+}
 footer a:hover{
     text-decoration: underline;
 }
